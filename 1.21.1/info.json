@@ -1,0 +1,30 @@
+{
+  "title": "Minecraft 1.21.1 | Cobblemon 1.6.0",
+  "version": "1.0",
+  "ip": "i.lelmc.com",
+  "port": "25566",
+  "single": "true",
+  "hud": {
+    "hud1": {
+      "color": 16736432,
+      "text": "帧率: %fps%",
+      "x": 5,
+      "y": 5
+    }
+  },
+  "key": {
+    "cd": {
+      "key": "67",
+      "command": "cd"
+    }
+  },
+  "Message": {
+    "upgradeInfo": [
+      "§e【 §c§l升 级 提 示§e 】",
+      "最新宝可梦9.2.13版本来咯",
+      "",
+      "§e§l请升级你的客户端",
+      "§6QQ群：808160335"
+    ]
+  }
+}
